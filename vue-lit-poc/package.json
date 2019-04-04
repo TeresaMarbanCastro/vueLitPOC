@@ -10,7 +10,8 @@
     "core-js": "^2.6.5",
     "lit-element": "^2.1.0",
     "vue": "^2.6.6",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "axios": "0.18.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
@@ -23,8 +24,6 @@
     }
   },
   "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not ie <= 8"
+    "last 1 chrome versions"
   ]
 }

@@ -16,8 +16,8 @@ export default new Router({
       component: Home
     },
     {
-      path: '/about',
-      name: 'about',
+      path: '/listado',
+      name: 'listado',
       component: About
     },
     {
